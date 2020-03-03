@@ -1,5 +1,5 @@
 package = "cmft-kong"
-version = "1.2.0"
+version = "1.2.1-0"
 supported_platforms = {"linux", "macosx"}
 source = {
   url = "git://github.com/AnneXXB/cmft-kong.git",
