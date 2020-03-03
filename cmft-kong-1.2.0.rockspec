@@ -40,7 +40,7 @@ dependencies = {
   "lua-resty-redis == 0.26",
   "lua-resty-jwt ~> 0.2.0",
   "lua-cmsgpack == 0.4.0",
-  "lua-zlib=1.2-0",
+  "lua-zlib == 1.2-0",
   -- external Kong plugins
   "kong-plugin-azure-functions ~> 0.4",
   "kong-plugin-kubernetes-sidecar-injector ~> 0.2",
